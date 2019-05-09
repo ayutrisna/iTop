@@ -1,0 +1,5 @@
+2019-04-11 01:20:25 | Error | UI.php 'apply_modify' : invalid transaction_id ! data: user='admin', class='Location'
+2019-04-11 01:22:49 | Error | UI.php 'apply_new' : invalid transaction_id ! data: user='admin', class='Server'
+2019-04-11 03:23:50 | Error | UI.php 'apply_new' : invalid transaction_id ! data: user='admin', class='WebServer'
+2019-04-11 03:50:17 | Error | UI.php 'apply_new' : invalid transaction_id ! data: user='admin', class='DBServer'
+2019-04-11 03:50:37 | Error | UI.php 'apply_new' : invalid transaction_id ! data: user='admin', class='DBServer'
